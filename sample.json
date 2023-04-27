@@ -145,40 +145,27 @@
                     "look for ", "look over ",
                     "head to ",
                     "explore ",
-                    "investigate ", "
-                    reach ", "
-                    visit ", "
-                    inquire about ", "
-                    inquire ", "
-                    seek ", "
-                    find ", "
-                    find about ",
+                    "investigate ", "reach ", "visit ", "inquire about ", "inquire ", "seek ", "find ", "find about ",
                     "check",
                     "check out",
                     "scout",
                     "tell me about",
                     "go to",
-                    "browse",
-                    "
+                    "browse"
                 ],
-                "responses ": [search]
+                "responses ": ["search"]
             },
 
             {
-                "
-                tag ": "
-                open website ",
+                "tag ": "open website ",
                 "patterns ": ["proceed to",
                     "open site ",
                 ],
-                "
-                responses ": [open website]
+                "responses ": ["open website"]
             },
 
             {
-                "
-                tag ": "
-                news ",
+                "tag ": "news ",
                 "patterns ": ["news",
                     "news report",
                     "information update",
@@ -187,37 +174,31 @@
                     "news headlines",
                     "current events"
                 ],
-                "responses ": [news]
+                "responses ": ["news"]
             },
 
             {
-                "
-                tag ": "
-                convert currency ",
+                "tag ": "convert currency ",
                 "patterns ": ["change the currency",
                     "exchange the currency",
                     "transform currency"
                 ],
-                "responses ": [convert currency]
+                "responses ": ["convert currency"]
             },
 
             {
-                "
-                tag ": "
-                calculate ",
+                "tag ": "calculate ",
                 "patterns ": ["compute",
                     "determine",
                     "solve",
                     "estimate",
                     "evaluate"
                 ],
-                "responses ": [calculate]
+                "responses ": ["calculate"]
             },
 
             {
-                "
-                tag ": "
-                open youtube ",
+                "tag ": "open youtube ",
                 "patterns ": ["start youtube",
                     "proceed to youtube",
                     "go to youtube",
@@ -234,11 +215,9 @@
                     "begin youtube",
                     "run youtube"
                 ],
-                "responses ": [open youtube]
+                "responses ": ["open youtube"]
             }, {
-                "
-                tag ": "
-                open google ",
+                "tag ": "open google ",
                 "patterns ": ["start google",
                     "proceed to google",
                     "go to google",
@@ -255,11 +234,9 @@
                     "begin google",
                     "run google"
                 ],
-                "responses ": [open google]
+                "responses ": ["open google"]
             }, {
-                "
-                tag ": "
-                open firefox ",
+                "tag ": "open firefox ",
                 "patterns ": ["start firefox",
                     "proceed to firefox",
                     "go to firefox",
@@ -275,13 +252,11 @@
                     "begin firefox",
                     "run firefox"
                 ],
-                "responses ": [open firefox]
+                "responses ": ["open firefox"]
             },
 
             {
-                "
-                tag ": "
-                open zoom ",
+                "tag ": "open zoom ",
                 "patterns ": ["start",
                     "proceed to",
                     "go to",
@@ -297,11 +272,9 @@
                     "begin",
                     "run"
                 ],
-                "responses ": [open zoom]
+                "responses ": ["open zoom"]
             }, {
-                "
-                tag ": "
-                open facebook ",
+                "tag ": "open facebook ",
                 "patterns ": ["start",
                     "proceed to",
                     "go to",
@@ -317,11 +290,9 @@
                     "begin",
                     "run"
                 ],
-                "responses ": [open facebook]
+                "responses ": ["open facebook"]
             }, {
-                "
-                tag ": "
-                open instagram ",
+                "tag ": "open instagram ",
                 "patterns ": ["start",
                     "proceed to",
                     "go to",
@@ -337,11 +308,9 @@
                     "begin",
                     "run"
                 ],
-                "responses ": [open instagram]
+                "responses ": ["open instagram"]
             }, {
-                "
-                tag ": "
-                open whatsapp web ",
+                "tag ": "open whatsapp web ",
                 "patterns ": ["start",
                     "proceed to",
                     "go to",
@@ -357,11 +326,9 @@
                     "begin",
                     "run"
                 ],
-                "responses ": [open whatsapp web]
+                "responses ": ["open whatsapp web"]
             }, {
-                "
-                tag ": "
-                open spotify ",
+                "tag ": "open spotify ",
                 "patterns ": ["start",
                     "proceed to",
                     "go to",
@@ -377,11 +344,9 @@
                     "begin",
                     "run"
                 ],
-                "responses ": [open spotify]
+                "responses ": ["open spotify"]
             }, {
-                "
-                tag ": "
-                open coursera ",
+                "tag ": "open coursera ",
                 "patterns ": ["start",
                     "proceed to",
                     "go to",
@@ -397,11 +362,9 @@
                     "begin",
                     "run"
                 ],
-                "responses ": [open coursera]
+                "responses ": ["open coursera"]
             }, {
-                "
-                tag ": "
-                open linkedin ",
+                "tag ": "open linkedin ",
                 "patterns ": ["start",
                     "proceed to",
                     "go to",
@@ -417,11 +380,9 @@
                     "begin",
                     "run"
                 ],
-                "responses ": [open linkedin]
+                "responses ": ["open linkedin"]
             }, {
-                "
-                tag ": "
-                open gmail ",
+                "tag ": "open gmail ",
                 "patterns ": ["start",
                     "proceed to",
                     "go to",
@@ -437,11 +398,9 @@
                     "begin",
                     "run"
                 ],
-                "responses ": [open gmail]
+                "responses ": ["open gmail"]
             }, {
-                "
-                tag ": "
-                open yahoo ",
+                "tag ": "open yahoo ",
                 "patterns ": ["start",
                     "proceed to",
                     "go to",
@@ -457,11 +416,9 @@
                     "begin",
                     "run"
                 ],
-                "responses ": [open yahoo]
+                "responses ": ["open yahoo"]
             }, {
-                "
-                tag ": "
-                open zomato ",
+                "tag ": "open zomato ",
                 "patterns ": ["start",
                     "proceed to",
                     "go to",
@@ -477,11 +434,9 @@
                     "begin",
                     "run"
                 ],
-                "responses ": [open zomato]
+                "responses ": ["open zomato"]
             }, {
-                "
-                tag ": "
-                open swiggy ",
+                "tag ": "open swiggy ",
                 "patterns ": ["start",
                     "proceed to",
                     "go to",
@@ -497,11 +452,9 @@
                     "begin",
                     "run"
                 ],
-                "responses ": [open swiggy]
+                "responses ": ["open swiggy"]
             }, {
-                "
-                tag ": "
-                open bookmyshow ",
+                "tag ": "open bookmyshow ",
                 "patterns ": ["start",
                     "proceed to",
                     "go to",
@@ -517,11 +470,9 @@
                     "begin",
                     "run"
                 ],
-                "responses ": [open bookmyshow]
+                "responses ": ["open bookmyshow"]
             }, {
-                "
-                tag ": "
-                open google meet ",
+                "tag ": "open google meet ",
                 "patterns ": ["start",
                     "proceed to",
                     "go to",
@@ -537,11 +488,9 @@
                     "begin",
                     "run"
                 ],
-                "responses ": [open google meet]
+                "responses ": ["open google meet"]
             }, {
-                "
-                tag ": "
-                open teams ",
+                "tag ": " open teams ",
                 "patterns ": ["start",
                     "proceed to",
                     "go to",
@@ -557,11 +506,9 @@
                     "begin",
                     "run"
                 ],
-                "responses ": [open teams]
+                "responses ": ["open teams"]
             }, {
-                "
-                tag ": "
-                open quora ",
+                "tag ": "open quora ",
                 "patterns ": ["start",
                     "proceed to",
                     "go to",
@@ -577,11 +524,9 @@
                     "begin",
                     "run"
                 ],
-                "responses ": [open quora]
+                "responses ": ["open quora"]
             }, {
-                "
-                tag ": "
-                open brainly ",
+                "tag ": "open brainly ",
                 "patterns ": ["start",
                     "proceed to",
                     "go to",
@@ -597,11 +542,9 @@
                     "begin",
                     "run"
                 ],
-                "responses ": [open brainly]
+                "responses ": ["open brainly"]
             }, {
-                "
-                tag ": "
-                open stack overflow ",
+                "tag ": "open stack overflow ",
                 "patterns ": ["start",
                     "proceed to",
                     "go to",
@@ -617,13 +560,11 @@
                     "begin",
                     "run"
                 ],
-                "responses ": [open stack overflow]
+                "responses ": ["open stack overflow"]
             },
 
             {
-                "
-                tag ": "
-                open github ",
+                "tag ": "open github ",
                 "patterns ": ["start",
                     "proceed to",
                     "go to",
@@ -639,13 +580,11 @@
                     "begin",
                     "run"
                 ],
-                "responses ": [open github]
+                "responses ": ["open github"]
             },
 
             {
-                "
-                tag ": "
-                open colab ",
+                "tag ": "open colab ",
                 "patterns ": ["start",
                     "proceed to",
                     "go to",
@@ -661,13 +600,11 @@
                     "begin",
                     "run"
                 ],
-                "responses ": [open colab]
+                "responses ": ["open colab"]
             },
 
             {
-                "
-                tag ": "
-                open vnr website ",
+                "tag ": "open vnr website ",
                 "patterns ": ["start",
                     "proceed to",
                     "go to",
@@ -683,13 +620,11 @@
                     "begin",
                     "run"
                 ],
-                "responses ": [open vnr website]
+                "responses ": ["open vnr website"]
             },
 
             {
-                "
-                tag ": "
-                open eduprime ",
+                "tag ": "open eduprime ",
                 "patterns ": ["start",
                     "proceed to",
                     "go to",
@@ -705,53 +640,33 @@
                     "begin",
                     "run"
                 ],
-                "responses ": [open eduprime]
+                "responses ": ["open eduprime"]
             },
 
 
             {
-                "
-                tag ": "
-                time ",
+                "tag ": "time ",
                 "patterns ": ["what 's the time",
                     "could you tell me time",
                     "Could you inform me of the time",
                     "What time is it right now"
                 ],
-                "
-                responses ": []
+                "responses ": ["time"]
             },
 
             {
-                "
-                tag ": "
-                date ",
+                "tag ": "date ",
                 "patterns ": ["what 's the date",
                     "What is the current date",
-                    "Can you tell me today'
-                    s date ", "
-                    could you tell me today 's date","May I know what day it is today","What day of the month is it today"],"
-                    responses ": [date]
+                    "Can you tell me todays date ", "could you tell me today 's date","May I know what day it is today","What day of the month is it today"],
+                "responses ": ["date"]
                 },
 
 
                 {
-                    "
-                    tag ": "set an alarm
-                    for ","
-                    patterns ": ["
-                    Schedule a alarm
-                    for ", "
-                    Program a wake - up call
-                    for ", "
-                    Set a notification
-                    for ", "
-                    Establish a wake - up alarm
-                    for ", "
-                ],
-                "responses ": [set an alarm
-                    for
-                ]
+                    "tag ": "set an alarm for ",
+                    "patterns ": ["Schedule a alarm for ", "Program a wake - up call for ", "Set a notification for ", "Establish a wake - up alarm for "],
+                "responses ": ["set an alarm for"]
             },
 
             {
